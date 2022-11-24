@@ -4,3 +4,6 @@ function fucn() {
 window.onload = function () {
     fucn()
 }
+function cy(){
+    alert('shabichengyan');
+}
